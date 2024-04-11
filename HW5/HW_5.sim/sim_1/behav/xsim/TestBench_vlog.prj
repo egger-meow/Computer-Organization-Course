@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/ALU.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/ALU_1bit.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/ALU_Ctrl.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Adder.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Data_Memory.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Decoder.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Full_adder.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Instr_Memory.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Mux2to1.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Mux3to1.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Pipeline_CPU.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Program_Counter.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Reg_File.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Shifter.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Sign_Extend.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Stage.v" \
+"../../../../HW_5.srcs/sources_1/imports/CO_Lab5/Zero_Filled.v" \
+"../../../../HW_5.srcs/sim_1/imports/CO_Lab5/TestBench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

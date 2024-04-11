@@ -1,0 +1,23 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW4/HW4.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW4/HW4.srcs/sim_1/imports/CO_Lab4_Template/TestBench.v,1685091007,verilog,,,E:/download/CO_Lab4/CO_Lab4_Template/Adder.v;E:/download/CO_Lab4/CO_Lab4_Template/ALU.v;E:/download/CO_Lab4/CO_Lab4_Template/ALU_Ctrl.v;E:/download/CO_Lab4/CO_Lab4_Template/Data_Memory.v;E:/download/CO_Lab4/CO_Lab4_Template/Decoder.v;E:/download/CO_Lab4/CO_Lab4_Template/Instr_Memory.v;E:/download/CO_Lab4/CO_Lab4_Template/Mux2to1.v;E:/download/CO_Lab4/CO_Lab4_Template/Mux3to1.v;E:/download/CO_Lab4/CO_Lab4_Template/Program_Counter.v;E:/download/CO_Lab4/CO_Lab4_Template/Reg_File.v;E:/download/CO_Lab4/CO_Lab4_Template/Shifter.v;E:/download/CO_Lab4/CO_Lab4_Template/Sign_Extend.v;E:/download/CO_Lab4/CO_Lab4_Template/Simple_Single_CPU.v;E:/download/CO_Lab4/CO_Lab4_Template/Zero_Filled.v,TestBench,,,E:/download/CO_Lab4/CO_Lab4_Template,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW4/HW4.srcs/sources_1/imports/CO_Lab4_Template/ALU_1bit.v,1686109449,verilog,,D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW4/HW4.srcs/sources_1/imports/CO_Lab4_Template/Full_adder.v,,ALU_1bit,,,E:/download/CO_Lab4/CO_Lab4_Template,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW4/HW4.srcs/sources_1/imports/CO_Lab4_Template/Full_adder.v,1686057981,verilog,,D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW4/HW4.srcs/sources_1/imports/CO_Lab4_Template/Zero_Filled.v,,Full_adder,,,E:/download/CO_Lab4/CO_Lab4_Template,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW4/HW4.srcs/sources_1/imports/CO_Lab4_Template/Zero_Filled.v,1685091007,verilog,,D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW4/HW4.srcs/sim_1/imports/CO_Lab4_Template/TestBench.v,,,,,E:/download/CO_Lab4/CO_Lab4_Template,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/ALU.v,1686142836,verilog,,,,ALU,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/ALU_Ctrl.v,1686142775,verilog,,,,ALU_Ctrl,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Adder.v,1685091007,verilog,,,,Adder,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Data_Memory.v,1686140821,verilog,,,,Data_Memory,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Decoder.v,1686147275,verilog,,,,Decoder,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Instr_Memory.v,1685091007,verilog,,,,Instr_Memory,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Mux2to1.v,1685091007,verilog,,,,Mux2to1,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Mux3to1.v,1686059075,verilog,,,,Mux3to1,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Program_Counter.v,1685091007,verilog,,,,Program_Counter,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Reg_File.v,1685091007,verilog,,,,Reg_File,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Shifter.v,1685091007,verilog,,,,Shifter,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Sign_Extend.v,1685091007,verilog,,,,Sign_Extend,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Simple_Single_CPU.v,1686147476,verilog,,,,Simple_Single_CPU,,,,,,,,
+E:/download/CO_Lab4/CO_Lab4_Template/Zero_Filled.v,1685091007,verilog,,,,Zero_Filled,,,,,,,,

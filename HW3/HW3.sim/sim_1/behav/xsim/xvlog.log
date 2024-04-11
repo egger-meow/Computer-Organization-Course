@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/alu_template/ALU_1bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_1bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/ALU_Ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/alu_template/Full_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Full_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Instr_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instr_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Mux2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Mux3to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux3to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Program_Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Program_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Reg_File.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reg_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Shifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Shifter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Sign_Extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sign_Extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Simple_Single_CPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Simple_Single_CPU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sources_1/imports/HW3/Zero_Filled.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Zero_Filled
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/HW3/HW3.srcs/sim_1/imports/HW3/TestBench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TestBench

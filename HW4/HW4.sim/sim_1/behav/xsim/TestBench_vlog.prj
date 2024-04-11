@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "E:/download/CO_Lab4/CO_Lab4_Template" \
+"../../../../HW4.srcs/sources_1/imports/CO_Lab4_Template/ALU_1bit.v" \
+"../../../../HW4.srcs/sources_1/imports/CO_Lab4_Template/Full_adder.v" \
+"../../../../HW4.srcs/sources_1/imports/CO_Lab4_Template/Zero_Filled.v" \
+"../../../../HW4.srcs/sim_1/imports/CO_Lab4_Template/TestBench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

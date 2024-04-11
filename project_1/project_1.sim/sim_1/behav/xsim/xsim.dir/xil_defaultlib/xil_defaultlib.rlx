@@ -1,0 +1,23 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/USER/Downloads/HW4_109700006/ALU.v,1686145215,verilog,,,,ALU,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/ALU_Ctrl.v,1686145290,verilog,,,,ALU_Ctrl,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Adder.v,1686133833,verilog,,,,Adder,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Data_Memory.v,1686133833,verilog,,,,Data_Memory,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Decoder.v,1686145450,verilog,,,,Decoder,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Instr_Memory.v,1686133833,verilog,,,,Instr_Memory,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Mux2to1.v,1686133833,verilog,,,,Mux2to1,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Mux3to1.v,1686133833,verilog,,,,Mux3to1,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Program_Counter.v,1686133833,verilog,,,,Program_Counter,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Reg_File.v,1686133833,verilog,,,,Reg_File,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Shifter.v,1686133833,verilog,,,,Shifter,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Sign_Extend.v,1686133833,verilog,,,,Sign_Extend,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Simple_Single_CPU.v,1686145902,verilog,,,,Simple_Single_CPU,,,,,,,,
+C:/Users/USER/Downloads/HW4_109700006/Zero_Filled.v,1686133833,verilog,,,,Zero_Filled,,,,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/project_1/project_1.srcs/sim_1/imports/HW4_109700006/TestBench.v,1685091007,verilog,,,C:/Users/USER/Downloads/HW4_109700006/Adder.v;C:/Users/USER/Downloads/HW4_109700006/ALU.v;C:/Users/USER/Downloads/HW4_109700006/ALU_Ctrl.v;C:/Users/USER/Downloads/HW4_109700006/Data_Memory.v;C:/Users/USER/Downloads/HW4_109700006/Decoder.v;C:/Users/USER/Downloads/HW4_109700006/Instr_Memory.v;C:/Users/USER/Downloads/HW4_109700006/Mux2to1.v;C:/Users/USER/Downloads/HW4_109700006/Mux3to1.v;C:/Users/USER/Downloads/HW4_109700006/Program_Counter.v;C:/Users/USER/Downloads/HW4_109700006/Reg_File.v;C:/Users/USER/Downloads/HW4_109700006/Shifter.v;C:/Users/USER/Downloads/HW4_109700006/Sign_Extend.v;C:/Users/USER/Downloads/HW4_109700006/Simple_Single_CPU.v;C:/Users/USER/Downloads/HW4_109700006/Zero_Filled.v,TestBench,,,C:/Users/USER/Downloads/HW4_109700006,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/project_1/project_1.srcs/sources_1/imports/HW4_109700006/ALU_1bit.v,1686133833,verilog,,D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/project_1/project_1.srcs/sources_1/imports/HW4_109700006/Full_adder.v,,ALU_1bit,,,C:/Users/USER/Downloads/HW4_109700006,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/project_1/project_1.srcs/sources_1/imports/HW4_109700006/Full_adder.v,1686133833,verilog,,D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/project_1/project_1.srcs/sources_1/imports/HW4_109700006/Zero_Filled.v,,Full_adder,,,C:/Users/USER/Downloads/HW4_109700006,,,,,
+D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/project_1/project_1.srcs/sources_1/imports/HW4_109700006/Zero_Filled.v,1686133833,verilog,,D:/TEMP/uuu/.data/home/JJmow/Labs/computerOrg/project_1/project_1.srcs/sim_1/imports/HW4_109700006/TestBench.v,,,,,C:/Users/USER/Downloads/HW4_109700006,,,,,
